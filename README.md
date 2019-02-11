@@ -3,6 +3,7 @@
 https://www.shodan.io/</br>
 http://tool.chinaz.com/</br>
 https://ipinfo.io/</br>
+https://www.netcraft.com/</br>
 资料</br>
 http://www.anquan.us/</br>
 https://www.ichunqiu.com/</br>
